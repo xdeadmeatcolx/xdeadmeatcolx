@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/xdeadmeatcolx/xdeadmeatcolx/refs/heads/main/Untitled1006_20260624042357.png)
+->![](https://raw.githubusercontent.com/xdeadmeatcolx/xdeadmeatcolx/refs/heads/main/Untitled1006_20260624042357.png){300px:300px}<-

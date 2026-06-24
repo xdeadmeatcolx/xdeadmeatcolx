@@ -12,4 +12,5 @@
         > </br>
 </p>
 <p align="center">
-<span id="dni"><a href="https://fluffle.cc/dmdni">dni</a></span> <span id="byi"><a href="https://fluffle.cc/dmbyi">byi</a></span> <span id="interests"><a href="https://fluffle.cc/dmints">interests</a></span>
+<span id="dni"><a href="https://fluffle.cc/dmdni">dni</a></span>　⌒　<span id="byi"><a href="https://fluffle.cc/dmbyi">byi</a></span>　⌒　<span id="interests"><a href="https://fluffle.cc/dmints">interests</a></span>
+</p>

@@ -1,7 +1,7 @@
 <p align="center">
 <img
         src="https://raw.githubusercontent.com/xdeadmeatcolx/xdeadmeatcolx/refs/heads/main/Untitled1006_20260624042357.png"
-        width="500" height="500"
+        width="400" height="400"
         align="middle"
         style="float: left;
           position: relative;

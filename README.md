@@ -7,7 +7,7 @@
         > </br>
 </p>
 <p align="center">
-        <span id="dni"><a href="https://fluffle.cc/dmdni">dni</a></span>　⌒　<span id="byi"><a href="https://fluffle.cc/dmbyi">byi</a></span>　⌒　<span id="interests"><a href="https://fluffle.cc/dmints">interests</a></span>
+        <span id="dni"><a href="https://fluffle.cc/dmdni">dni</a></span>${{\color{#740000}⠀⌒⠀}}$<span id="byi"><a href="https://fluffle.cc/dmbyi">byi</a></span>${{\color{#740000}⠀⌒⠀}}$<span id="interests"><a href="https://fluffle.cc/dmints">interests</a></span>
         </p>
 <p align="center">
 <img
@@ -23,9 +23,14 @@
 </p>
         </p>
 <details align="left">
-<summary> ⠀⠀info ⠀⠀ ⠀✦ ⠀⠀ ⠀<img src="https://enchantments.carrd.co/assets/images/gallery01/e4e26362.gif?v=82b4b006"></summary>
-<div class="container"> <span class="text" align="middle"></br>　　　　<b>in</b> safe server but will move to 18+ more after bday</br>　　　　<b>area</b> changes depending on fandom / fronter</br>　　　　<b>frq</b> after interacting we need friends on here</br>　　　　<b>we</b> block freely and are nonconfrontational</br>　　　　<b>usually</b> offtab but we disconnect often</span>
-
+<summary>${{\color{#ff0000} ⠀⠀info ⠀⠀ ⠀✦ ⠀⠀ ⠀}}$<img src="https://enchantments.carrd.co/assets/images/gallery01/e4e26362.gif?v=82b4b006"></summary>
+<div class="container"> <span class="text" align="middle">
+        ${{\color{#ff0000} ⠀⠀ ⠀⠀ ⠀⠀ ⠀in}}$ ${{\color{#740000}safe⠀server⠀but⠀will⠀move⠀to⠀18+⠀more⠀after⠀bday}}$</br>
+        ${{\color{#ff0000} ⠀⠀ ⠀⠀ ⠀⠀ ⠀area}}$ ${{\color{#740000}changes⠀depending⠀on⠀fandom/fronter}}$</br>
+        ${{\color{#ff0000} ⠀⠀ ⠀⠀ ⠀⠀ ⠀frq}}$ ${{\color{#740000}after⠀interacting⠀we⠀need⠀friends⠀on⠀here}}$</br>
+        ${{\color{#ff0000} ⠀⠀ ⠀⠀ ⠀⠀ ⠀frq}}$ ${{\color{#740000}block⠀freely⠀and⠀are⠀nonconfrontational}}$</br>
+        ${{\color{#ff0000} ⠀⠀ ⠀⠀ ⠀⠀ ⠀usually}}$ ${{\color{#740000}offtab⠀but⠀we⠀disconnect⠀often}}$</span>
+        
   <img src="https://i.postimg.cc/wM6bqhPq/3dgifmaker30579.gif" width="200" align="right">
 </div>
 </details>

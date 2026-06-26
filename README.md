@@ -24,7 +24,7 @@
         </p>
 <details align="left">
 <summary>${{\color{#ff0000} ⠀⠀info ⠀⠀ ⠀✦ ⠀⠀ ⠀}}$<img src="https://enchantments.carrd.co/assets/images/gallery01/e4e26362.gif?v=82b4b006"></summary>
-<div class="container"> <span class="text" align="middle">
+<div class="container"> <span class="text" align="middle"></br>
         ${{\color{#ff0000} ⠀⠀ ⠀⠀ ⠀⠀ ⠀in}}$ ${{\color{#740000}safe⠀server⠀but⠀will⠀move⠀to⠀18+⠀more⠀after⠀bday}}$</br>
         ${{\color{#ff0000} ⠀⠀ ⠀⠀ ⠀⠀ ⠀area}}$ ${{\color{#740000}changes⠀depending⠀on⠀fandom/fronter}}$</br>
         ${{\color{#ff0000} ⠀⠀ ⠀⠀ ⠀⠀ ⠀frq}}$ ${{\color{#740000}after⠀interacting⠀we⠀need⠀friends⠀on⠀here}}$</br>

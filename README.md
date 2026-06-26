@@ -24,8 +24,8 @@
         </p>
 <details align="left">
 <summary> ⠀⠀info ⠀⠀ ⠀✦ ⠀⠀ ⠀<img src="https://enchantments.carrd.co/assets/images/gallery01/e4e26362.gif?v=82b4b006"></summary>
-<div class="container"> <span class="text" align="middle"></br>　　　　<b>in</b> safe server but will move to 18+ more after bday</br>　　　　<b>area</b> changes depending on fandom / fronter</br>　　　　<b>frq</b> after interacting we need friends on here</br>　　　　<b>we</b> block freely and are nonconfrontational</br>　　　　<b>usually</b> offtab but we disconnect often</br></span>
-</br>
+<div class="container"> <span class="text" align="middle"></br>　　　　<b>in</b> safe server but will move to 18+ more after bday</br>　　　　<b>area</b> changes depending on fandom / fronter</br>　　　　<b>frq</b> after interacting we need friends on here</br>　　　　<b>we</b> block freely and are nonconfrontational</br>　　　　<b>usually</b> offtab but we disconnect often</span>
+
   <img src="https://i.postimg.cc/wM6bqhPq/3dgifmaker30579.gif" width="200" align="right">
 </div>
 </details>

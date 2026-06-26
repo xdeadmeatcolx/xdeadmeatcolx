@@ -30,7 +30,7 @@
         ${{\color{#ff0000} ⠀⠀ ⠀⠀ ⠀⠀ ⠀in}}$ ${{\color{#740000}safe⠀server⠀but⠀will⠀move⠀to⠀18+⠀more⠀after⠀bday}}$</br>
         ${{\color{#ff0000} ⠀⠀ ⠀⠀ ⠀⠀ ⠀area}}$ ${{\color{#740000}changes⠀depending⠀on⠀fandom/fronter}}$</br>
         ${{\color{#ff0000} ⠀⠀ ⠀⠀ ⠀⠀ ⠀frq}}$ ${{\color{#740000}after⠀interacting⠀we⠀need⠀friends⠀on⠀here}}$</br>
-        ${{\color{#ff0000} ⠀⠀ ⠀⠀ ⠀⠀ ⠀frq}}$ ${{\color{#740000}block⠀freely⠀and⠀are⠀nonconfrontational}}$</br>
+        ${{\color{#ff0000} ⠀⠀ ⠀⠀ ⠀⠀ ⠀we}}$ ${{\color{#740000}block⠀freely⠀and⠀are⠀nonconfrontational}}$</br>
         ${{\color{#ff0000} ⠀⠀ ⠀⠀ ⠀⠀ ⠀usually}}$ ${{\color{#740000}offtab⠀but⠀we⠀disconnect⠀often}}$</span>
         
   <img src="https://i.postimg.cc/wM6bqhPq/3dgifmaker30579.gif" width="200" align="right">

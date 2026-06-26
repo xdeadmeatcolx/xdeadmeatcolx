@@ -1,4 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=15&letterSpacing=2px&duration=4000&pause=100&color=F70000&center=true&width=435&lines=my+body+is+an+orphanage;%22we+take+everyone+in%22" alt="Typing SVG" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=25&letterSpacing=2px&duration=4000&pause=100&color=FF0000&width=435&lines=my+body+is+an+orphanage;%22+we+take+everyone+in+%22" alt="Typing SVG" /></a>
+</p>
 <p align="center">
 <img
         src="https://raw.githubusercontent.com/xdeadmeatcolx/xdeadmeatcolx/refs/heads/main/Untitled1006_20260624042357.png"

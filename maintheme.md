@@ -35,6 +35,10 @@
         ${{\color{#ff0000} ⠀⠀ ⠀⠀ ⠀⠀ ⠀avoid}}$ ${{\color{#740000}interacting⠀if⠀-15⠀,⠀16+⠀preferred⠀please}}$</br>
         ${{\color{#ff0000} ⠀⠀ ⠀⠀ ⠀⠀ ⠀dont}}$ ${{\color{#740000}care⠀if⠀anyone⠀takes⠀inspo⠀just⠀dont⠀fully⠀copy}}$</span>
         
-  <img src="https://i.postimg.cc/wM6bqhPq/3dgifmaker30579.gif" width="200" align="right">
+  <img src="https://i.postimg.cc/wM6bqhPq/3dgifmaker30579.gif" width="200" align="right"></br>
+<span class="text" align="left">
+  </br>${{\color{#ff0000}fict⠀=⠀specific⠀alters⠀skin}}$</br>
+  ${{\color{#ff0000}cos⠀=⠀character⠀hyperfix⠀cosplay⠀skin}}$</br>
+  ${{\color{#ff0000}f/o⠀=⠀fictional⠀other⠀cosplay⠀skin}}$</span>
 </div>
 </details>

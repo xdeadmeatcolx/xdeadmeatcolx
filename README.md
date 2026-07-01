@@ -35,6 +35,10 @@
         ${{\color{#c68a6b} ⠀⠀ ⠀⠀ ⠀⠀ ⠀avoid}}$ ${{\color{#89454d}interacting⠀if⠀-15⠀,⠀16+⠀preferred⠀please}}$</br>
         ${{\color{#c68a6b} ⠀⠀ ⠀⠀ ⠀⠀ ⠀dont}}$ ${{\color{#89454d}care⠀if⠀anyone⠀takes⠀inspo⠀just⠀dont⠀fully⠀copy}}$</span>
         
-  <img src="https://64.media.tumblr.com/2e93ecaa7ca77c2a6d911c8d8fbd80c7/8d62a47cfdf3c5db-75/s1280x1920/0f791dc8e9dae17c503bd8ba5b948c62755e0689.pnj" width="200" align="right">
+  <img src="https://64.media.tumblr.com/2e93ecaa7ca77c2a6d911c8d8fbd80c7/8d62a47cfdf3c5db-75/s1280x1920/0f791dc8e9dae17c503bd8ba5b948c62755e0689.pnj" width="200" align="right"></br>
+<span class="text" align="left">
+  </br>${{\color{#c68a6b}fict⠀=⠀specific⠀alters⠀skin}}$</br>
+  ${{\color{#c68a6b}cos⠀=⠀character⠀hyperfix⠀cosplay⠀skin}}$</br>
+  ${{\color{#c68a6b}f/o⠀=⠀fictional⠀other⠀cosplay⠀skin}}$</span>
 </div>
 </details>

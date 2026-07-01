@@ -33,7 +33,7 @@
         ${{\color{#ff0000} ⠀⠀ ⠀⠀ ⠀⠀ ⠀we}}$ ${{\color{#740000}block⠀freely⠀and⠀are⠀nonconfrontational}}$</br>
         ${{\color{#ff0000} ⠀⠀ ⠀⠀ ⠀⠀ ⠀usually}}$ ${{\color{#740000}offtab⠀but⠀we⠀disconnect⠀often}}$</br>
         ${{\color{#ff0000} ⠀⠀ ⠀⠀ ⠀⠀ ⠀avoid}}$ ${{\color{#740000}interacting⠀if⠀-15⠀,⠀16+⠀preferred⠀please}}$</br>
-        ${{\color{#ff0000} ⠀⠀ ⠀⠀ ⠀⠀ ⠀dont}}$ ${{\color{#740000}care⠀if⠀take⠀inspo⠀just⠀dont⠀fully⠀copy}}$</span>
+        ${{\color{#ff0000} ⠀⠀ ⠀⠀ ⠀⠀ ⠀dont}}$ ${{\color{#740000}care⠀if⠀anyone⠀takes⠀inspo⠀just⠀dont⠀fully⠀copy}}$</span>
         
   <img src="https://i.postimg.cc/wM6bqhPq/3dgifmaker30579.gif" width="200" align="right">
 </div>

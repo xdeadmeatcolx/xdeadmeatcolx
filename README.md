@@ -1,19 +1,19 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=25&letterSpacing=2px&duration=4000&pause=100&color=0072FF&width=435&lines=im+never+what+i+like;im+double-sided" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=25&letterSpacing=2px&duration=4000&pause=100&color=5300B9&width=435&lines=yura+yura+yurenagara;bokura+wa+tada+motometeku" alt="Typing SVG" /></a>
 </p>
 <p align="center">
 <img
-        src="https://64.media.tumblr.com/4204dd8f038a59354c0992c124682fc3/962cb2ad6c14e999-b5/s1280x1920/cdcbeeae732fbcc41313e1a6dcb25e6956048ae9.pnj"
+        src="https://64.media.tumblr.com/d639c588017f6a82fc656148993e8fd6/8bb5f49695809aa1-af/s1280x1920/4a0719e574569d958c639b4bfd542aee254be16e.pnj"
         width="400"
         align="middle"
         > </br>
 </p>
 <p align="center">
-        <span id="dni"><a href="https://fluffle.cc/dmdni">dni</a></span>${{\color{#0e3465}⠀⌒⠀}}$<span id="byi"><a href="https://fluffle.cc/dmbyi">byi</a></span>${{\color{#0e3465}⠀⌒⠀}}$<span id="interests"><a href="https://fluffle.cc/dmints">interests</a></span>
+        <span id="dni"><a href="https://fluffle.cc/dmdni">dni</a></span>${{\color{#6e001b}⠀⌒⠀}}$<span id="byi"><a href="https://fluffle.cc/dmbyi">byi</a></span>${{\color{#6e001b}⠀⌒⠀}}$<span id="interests"><a href="https://fluffle.cc/dmints">interests</a></span>
         </p>
 <p align="center">
 <img
-        src="https://64.media.tumblr.com/e7383e93fddde1250ffc9a033e04a95b/5eb2d0ffabfb049a-d8/s540x810/a3d81d0db7bd86d008a6c88dcbc3381111726c13.gifv"
+        src="https://64.media.tumblr.com/a15a327be29ffc0decc20648785843b9/2597afcf5e857fa0-ae/s2048x3072/51aa0520f507cc2b2ec19ffe51e5e28d55abebaa.pnj"
         width="300"
         align="middle"
         > </br>
@@ -25,21 +25,21 @@
 </p>
         </p>
 <details align="left">
-<summary>${{\color{#0072FF} ⠀⠀info ⠀⠀ ⠀✦ ⠀⠀ ⠀}}$<img src="https://64.media.tumblr.com/553d06912ada50d23e417e8308b75d0b/a39fd5e0d1b02e45-28/s75x75_c1/9a719067f8b799e4a5a2f37f2c34f266f4f029f5.gifv"></summary>
+<summary>${{\color{#5300B9} ⠀⠀info ⠀⠀ ⠀✦ ⠀⠀ ⠀}}$<img src="https://64.media.tumblr.com/1d3aa07d7e8db63282798f5461574fe4/b4341889ef2ddd8b-0b/s75x75_c1/326b4ef25d02445406e9868c3601a15b54bef3ca.gifv"></summary>
 <div class="container"> <span class="text" align="middle"></br>
-        ${{\color{#0072FF} ⠀⠀ ⠀⠀ ⠀⠀ ⠀in}}$ ${{\color{#0e3465}safe⠀server⠀but⠀will⠀move⠀to⠀18+⠀more⠀after⠀bday}}$</br>
-        ${{\color{#0072FF} ⠀⠀ ⠀⠀ ⠀⠀ ⠀area}}$ ${{\color{#0e3465}changes⠀depending⠀on⠀fandom/fronter}}$</br>
-        ${{\color{#0072FF} ⠀⠀ ⠀⠀ ⠀⠀ ⠀frqing}}$ ${{\color{#0e3465}after⠀interacting⠀is⠀encouraged⠀we⠀need⠀friends⠀on⠀here}}$</br>
-        ${{\color{#0072FF} ⠀⠀ ⠀⠀ ⠀⠀ ⠀we}}$ ${{\color{#0e3465}block⠀freely⠀and⠀are⠀nonconfrontational}}$</br>
-        ${{\color{#0072FF} ⠀⠀ ⠀⠀ ⠀⠀ ⠀usually}}$ ${{\color{#0e3465}offtab⠀but⠀we⠀disconnect⠀often}}$</br>
-        ${{\color{#0072FF} ⠀⠀ ⠀⠀ ⠀⠀ ⠀avoid}}$ ${{\color{#0e3465}interacting⠀if⠀-15⠀,⠀16+⠀preferred⠀please}}$</br>
-        ${{\color{#0072FF} ⠀⠀ ⠀⠀ ⠀⠀ ⠀dont}}$ ${{\color{#0e3465}care⠀if⠀anyone⠀takes⠀inspo⠀just⠀dont⠀fully⠀copy}}$</span>
+        ${{\color{#5300B9} ⠀⠀ ⠀⠀ ⠀⠀ ⠀in}}$ ${{\color{#6e001b}safe⠀server⠀but⠀will⠀move⠀to⠀18+⠀more⠀after⠀bday}}$</br>
+        ${{\color{#5300B9} ⠀⠀ ⠀⠀ ⠀⠀ ⠀area}}$ ${{\color{#6e001b}changes⠀depending⠀on⠀fandom/fronter}}$</br>
+        ${{\color{#5300B9} ⠀⠀ ⠀⠀ ⠀⠀ ⠀frqing}}$ ${{\color{#6e001b}after⠀interacting⠀is⠀encouraged⠀we⠀need⠀friends⠀on⠀here}}$</br>
+        ${{\color{#5300B9} ⠀⠀ ⠀⠀ ⠀⠀ ⠀we}}$ ${{\color{#6e001b}block⠀freely⠀and⠀are⠀nonconfrontational}}$</br>
+        ${{\color{#5300B9} ⠀⠀ ⠀⠀ ⠀⠀ ⠀usually}}$ ${{\color{#6e001b}offtab⠀but⠀we⠀disconnect⠀often}}$</br>
+        ${{\color{#5300B9} ⠀⠀ ⠀⠀ ⠀⠀ ⠀avoid}}$ ${{\color{#6e001b}interacting⠀if⠀-15⠀,⠀16+⠀preferred⠀please}}$</br>
+        ${{\color{#5300B9} ⠀⠀ ⠀⠀ ⠀⠀ ⠀dont}}$ ${{\color{#6e001b}care⠀if⠀anyone⠀takes⠀inspo⠀just⠀dont⠀fully⠀copy}}$</span>
         
-  <img src="https://64.media.tumblr.com/daf5b2ab91d7424e4b1665ec6c96b3a5/00623063510d0c5e-57/s1280x1920/29294524ca3646ab8917c62d2ae6bc358733a9f5.pnj" width="200" align="right"></br>
+  <img src="https://64.media.tumblr.com/5707d8af7cf2617965d740347dbbc755/8bb5f49695809aa1-f1/s1280x1920/065adf2fbe4f5ba2e28e726561410f990bc0deb0.pnj" width="200" align="right"></br>
 <span class="text" align="left">
-  </br>${{\color{#0072FF}fict⠀=⠀fictionally⠀sourced⠀alters⠀skin}}$</br>
-  ${{\color{#0072FF}me⠀=⠀irl⠀or⠀specific⠀alters⠀skin}}$</br>
-  ${{\color{#0072FF}cos⠀=⠀character⠀hyperfix⠀cosplay⠀skin}}$</br>
-  ${{\color{#0072FF}f/o⠀=⠀fictional⠀other⠀cosplay⠀skin}}$</span>
+  </br>${{\color{#5300B9}fict⠀=⠀fictionally⠀sourced⠀alters⠀skin}}$</br>
+  ${{\color{#5300B9}me⠀=⠀irl⠀or⠀specific⠀alters⠀skin}}$</br>
+  ${{\color{#5300B9}cos⠀=⠀character⠀hyperfix⠀cosplay⠀skin}}$</br>
+  ${{\color{#5300B9}f/o⠀=⠀fictional⠀other⠀cosplay⠀skin}}$</span>
 </div>
 </details>

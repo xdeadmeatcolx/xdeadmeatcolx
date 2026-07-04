@@ -28,12 +28,13 @@
 <summary>${{\color{#5300B9} ⠀⠀info ⠀⠀ ⠀✦ ⠀⠀ ⠀}}$<img src="https://64.media.tumblr.com/1d3aa07d7e8db63282798f5461574fe4/b4341889ef2ddd8b-0b/s75x75_c1/326b4ef25d02445406e9868c3601a15b54bef3ca.gifv"></summary>
 <div class="container"> <span class="text" align="middle"></br>
         ${{\color{#5300B9} ⠀⠀ ⠀⠀ ⠀⠀ ⠀in}}$ ${{\color{#6e001b}safe⠀server⠀but⠀will⠀move⠀to⠀18+⠀more⠀after⠀bday}}$</br>
-        ${{\color{#5300B9} ⠀⠀ ⠀⠀ ⠀⠀ ⠀area}}$ ${{\color{#6e001b}changes⠀depending⠀on⠀fandom/fronter}}$</br>
-        ${{\color{#5300B9} ⠀⠀ ⠀⠀ ⠀⠀ ⠀frqing}}$ ${{\color{#6e001b}after⠀interacting⠀is⠀encouraged⠀we⠀need⠀friends⠀on⠀here}}$</br>
+        ${{\color{#5300B9} ⠀⠀ ⠀⠀ ⠀⠀ ⠀area}}$ ${{\color{#6e001b}changes⠀depending⠀on⠀fandom/fronter⠀,⠀above⠀market⠀if⠀alone}}$</br>
+        ${{\color{#5300B9} ⠀⠀ ⠀⠀ ⠀⠀ ⠀frqing}}$ ${{\color{#6e001b}after⠀interacting⠀is⠀encouraged}}$</br>
         ${{\color{#5300B9} ⠀⠀ ⠀⠀ ⠀⠀ ⠀we}}$ ${{\color{#6e001b}block⠀freely⠀and⠀are⠀nonconfrontational}}$</br>
-        ${{\color{#5300B9} ⠀⠀ ⠀⠀ ⠀⠀ ⠀usually}}$ ${{\color{#6e001b}offtab⠀but⠀we⠀disconnect⠀often}}$</br>
+        ${{\color{#5300B9} ⠀⠀ ⠀⠀ ⠀⠀ ⠀usually}}$ ${{\color{#6e001b}offtab⠀but⠀we⠀disconnect⠀often⠀,⠀sometimes⠀slowreplies}}$</br>
         ${{\color{#5300B9} ⠀⠀ ⠀⠀ ⠀⠀ ⠀avoid}}$ ${{\color{#6e001b}interacting⠀if⠀-15⠀,⠀16+⠀preferred⠀please}}$</br>
-        ${{\color{#5300B9} ⠀⠀ ⠀⠀ ⠀⠀ ⠀dont}}$ ${{\color{#6e001b}care⠀if⠀anyone⠀takes⠀inspo⠀just⠀dont⠀fully⠀copy}}$</span>
+        ${{\color{#5300B9} ⠀⠀ ⠀⠀ ⠀⠀ ⠀dont}}$ ${{\color{#6e001b}care⠀if⠀anyone⠀takes⠀inspo⠀just⠀dont⠀fully⠀copy}}$</br>
+        ${{\color{#5300B9} ⠀⠀ ⠀⠀ ⠀⠀ ⠀we}}$ ${{\color{#6e001b}are⠀always⠀friendly⠀and⠀free⠀to⠀interact⠀unless⠀said⠀otherwise!}}$</span>
         
   <img src="https://64.media.tumblr.com/5707d8af7cf2617965d740347dbbc755/8bb5f49695809aa1-f1/s1280x1920/065adf2fbe4f5ba2e28e726561410f990bc0deb0.pnj" width="200" align="right"></br>
 <span class="text" align="left">

@@ -1,4 +1,9 @@
-<p align="center">
+<img
+        src="https://64.media.tumblr.com/5eb068699b03518fae93a805160fd7e4/8bb5f49695809aa1-3a/s1280x1920/3422ae09e6984a917f6f359d066f381cbce82567.gifv"
+        width="100"
+        align="left"
+        >
+<p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=25&letterSpacing=2px&duration=4000&pause=100&color=5300B9&width=435&lines=yura+yura+yurenagara;bokura+wa+tada+motometeku" alt="Typing SVG" /></a>
 </p>
 <p align="center">

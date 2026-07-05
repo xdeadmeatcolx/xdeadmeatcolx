@@ -11,7 +11,7 @@
         src="https://64.media.tumblr.com/d639c588017f6a82fc656148993e8fd6/8bb5f49695809aa1-af/s1280x1920/4a0719e574569d958c639b4bfd542aee254be16e.pnj"
         width="400"
         align="middle"
-        > </br>
+        >
 </p>
 <p align="center">
         <span id="dni"><a href="https://fluffle.cc/dmdni">dni</a></span>${{\color{#6e001b}⠀⌒⠀}}$<span id="byi"><a href="https://fluffle.cc/dmbyi">byi</a></span>${{\color{#6e001b}⠀⌒⠀}}$<span id="interests"><a href="https://fluffle.cc/dmints">interests</a></span>

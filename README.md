@@ -1,15 +1,15 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=25&letterSpacing=2px&duration=4000&pause=100&color=C68A6B&width=435&lines=choose+your+weapon%2C+time+to+pay;forget+about+the+second+day" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=25&letterSpacing=2px&duration=4000&pause=100&color=CB9275&width=435&lines=choose+your+weapon%2C+time+to+pay;forget+about+the+second+day" alt="Typing SVG" /></a>
 </p>
 <p align="center">
 <img
-        src="https://64.media.tumblr.com/c98a37efc1c0f310cedba3d1c28fb03c/f2d815260ee4851a-58/s1280x1920/a43c650440a09b611883ab90696f3578255e6a01.gifv"
-        width="400"
+        src="https://64.media.tumblr.com/5cf5e5928a7fec485dcf5806120dc395/8d62a47cfdf3c5db-24/s2048x3072/c74ddad57499c97c6a482d8707116573910a2e4d.pnj"
+        width="450"
         align="middle"
         > </br>
 </p>
 <p align="center">
-        <span id="dni"><a href="https://fluffle.cc/dmdni">dni</a></span>${{\color{#89454d}⠀⌒⠀}}$<span id="byi"><a href="https://fluffle.cc/dmbyi">byi</a></span>${{\color{#89454d}⠀⌒⠀}}$<span id="interests"><a href="https://fluffle.cc/dmints">interests</a></span>
+        <span id="dni"><a href="https://fluffle.cc/dmdni">dni</a></span>${{\color{#5C2351}⠀⌒⠀}}$<span id="byi"><a href="https://fluffle.cc/dmbyi">byi</a></span>${{\color{#5C2351}⠀⌒⠀}}$<span id="interests"><a href="https://fluffle.cc/dmints">interests</a></span>
         </p>
 <p align="center">
 <img
@@ -25,22 +25,22 @@
 </p>
         </p>
 <details align="left">
-<summary>${{\color{#c68a6b} ⠀⠀info ⠀⠀ ⠀✦ ⠀⠀ ⠀}}$<img src="https://64.media.tumblr.com/14f23126e620e6adb96c6a61f2af19e0/ec3f7831beace81c-51/s75x75_c1/d6754b86fc5363cc5888e94d1d85374327659aaa.gifv"></summary>
+<summary>${{\color{#CB9275} ⠀⠀info ⠀⠀ ⠀✦ ⠀⠀ ⠀}}$<img src="https://64.media.tumblr.com/14f23126e620e6adb96c6a61f2af19e0/ec3f7831beace81c-51/s75x75_c1/d6754b86fc5363cc5888e94d1d85374327659aaa.gifv"></summary>
 <div class="container"> <span class="text" align="middle"></br>
-        ${{\color{#c68a6b} ⠀⠀ ⠀⠀ ⠀⠀ ⠀in}}$ ${{\color{#89454d}safe⠀server⠀but⠀will⠀move⠀to⠀18+⠀more⠀after⠀bday}}$</br>
-        ${{\color{#c68a6b} ⠀⠀ ⠀⠀ ⠀⠀ ⠀area}}$ ${{\color{#89454d}changes⠀depending⠀on⠀fandom/fronter⠀,⠀above⠀market⠀if⠀alone}}$</br>
-        ${{\color{#c68a6b} ⠀⠀ ⠀⠀ ⠀⠀ ⠀frqing}}$ ${{\color{#89454d}after⠀interacting⠀is⠀encouraged}}$</br>
-        ${{\color{#c68a6b} ⠀⠀ ⠀⠀ ⠀⠀ ⠀we}}$ ${{\color{#89454d}block⠀freely⠀and⠀are⠀nonconfrontational}}$</br>
-        ${{\color{#c68a6b} ⠀⠀ ⠀⠀ ⠀⠀ ⠀usually}}$ ${{\color{#89454d}offtab⠀but⠀we⠀disconnect⠀often⠀,⠀sometimes⠀slowreplies}}$</br>
-        ${{\color{#c68a6b} ⠀⠀ ⠀⠀ ⠀⠀ ⠀avoid}}$ ${{\color{#89454d}interacting⠀if⠀-15⠀,⠀16+⠀preferred⠀please}}$</br>
-        ${{\color{#c68a6b} ⠀⠀ ⠀⠀ ⠀⠀ ⠀dont}}$ ${{\color{#89454d}care⠀if⠀anyone⠀takes⠀inspo⠀just⠀dont⠀fully⠀copy}}$</br>
-        ${{\color{#c68a6b} ⠀⠀ ⠀⠀ ⠀⠀ ⠀we}}$ ${{\color{#89454d}are⠀always⠀friendly⠀and⠀free⠀to⠀interact⠀unless⠀said⠀otherwise!}}$</span>
+        ${{\color{#CB9275} ⠀⠀ ⠀⠀ ⠀⠀ ⠀in}}$ ${{\color{#5C2351}safe⠀server⠀but⠀will⠀move⠀to⠀18+⠀more⠀after⠀bday}}$</br>
+        ${{\color{#CB9275} ⠀⠀ ⠀⠀ ⠀⠀ ⠀area}}$ ${{\color{#5C2351}changes⠀depending⠀on⠀fandom/fronter⠀,⠀above⠀market⠀if⠀alone}}$</br>
+        ${{\color{#CB9275} ⠀⠀ ⠀⠀ ⠀⠀ ⠀frqing}}$ ${{\color{#5C2351}after⠀interacting⠀is⠀encouraged}}$</br>
+        ${{\color{#CB9275} ⠀⠀ ⠀⠀ ⠀⠀ ⠀we}}$ ${{\color{#5C2351}block⠀freely⠀and⠀are⠀nonconfrontational}}$</br>
+        ${{\color{#CB9275} ⠀⠀ ⠀⠀ ⠀⠀ ⠀usually}}$ ${{\color{#5C2351}offtab⠀but⠀we⠀disconnect⠀often⠀,⠀sometimes⠀slowreplies}}$</br>
+        ${{\color{#CB9275} ⠀⠀ ⠀⠀ ⠀⠀ ⠀avoid}}$ ${{\color{#5C2351}interacting⠀if⠀-15⠀,⠀16+⠀preferred⠀please}}$</br>
+        ${{\color{#CB9275} ⠀⠀ ⠀⠀ ⠀⠀ ⠀dont}}$ ${{\color{#5C2351}care⠀if⠀anyone⠀takes⠀inspo⠀just⠀dont⠀fully⠀copy}}$</br>
+        ${{\color{#CB9275} ⠀⠀ ⠀⠀ ⠀⠀ ⠀we}}$ ${{\color{#5C2351}are⠀always⠀friendly⠀and⠀free⠀to⠀interact⠀unless⠀said⠀otherwise!}}$</span>
         
   <img src="https://64.media.tumblr.com/2e93ecaa7ca77c2a6d911c8d8fbd80c7/8d62a47cfdf3c5db-75/s1280x1920/0f791dc8e9dae17c503bd8ba5b948c62755e0689.pnj" width="200" align="right"></br>
 <span class="text" align="left">
-  </br>${{\color{#c68a6b}fict⠀=⠀fictionally⠀sourced⠀alters⠀skin}}$</br>
-  ${{\color{#c68a6b}me⠀=⠀irl⠀or⠀specific⠀alters⠀skin}}$</br>
-  ${{\color{#c68a6b}cos⠀=⠀character⠀hyperfix⠀cosplay⠀skin}}$</br>
-  ${{\color{#c68a6b}f/o⠀=⠀fictional⠀other⠀cosplay⠀skin}}$</span>
+  </br>${{\color{#CB9275}fict⠀=⠀fictionally⠀sourced⠀alters⠀skin}}$</br>
+  ${{\color{#CB9275}me⠀=⠀irl⠀or⠀specific⠀alters⠀skin}}$</br>
+  ${{\color{#CB9275}cos⠀=⠀character⠀hyperfix⠀cosplay⠀skin}}$</br>
+  ${{\color{#CB9275}f/o⠀=⠀fictional⠀other⠀cosplay⠀skin}}$</span>
 </div>
 </details>

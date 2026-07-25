@@ -17,12 +17,6 @@
         width="300"
         align="middle"
         > </br>
-
-<p align="right">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=v46c4da46f6o3i5va5pmy8qou&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=true&bar_color=ff0000&bar_color_cover=false">
-  </a>
-</p>
         </p>
 <details align="left">
 <summary>${{\color{#CB9275} ⠀⠀info ⠀⠀ ⠀✦ ⠀⠀ ⠀}}$<img src="https://64.media.tumblr.com/14f23126e620e6adb96c6a61f2af19e0/ec3f7831beace81c-51/s75x75_c1/d6754b86fc5363cc5888e94d1d85374327659aaa.gifv"></summary>

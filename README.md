@@ -35,6 +35,12 @@
   </br>${{\color{#CB9275}fict⠀=⠀fictionally⠀sourced⠀alters⠀skin}}$</br>
   ${{\color{#CB9275}me⠀=⠀irl⠀or⠀specific⠀alters⠀skin}}$</br>
   ${{\color{#CB9275}cos⠀=⠀character⠀hyperfix⠀cosplay⠀skin}}$</br>
-  ${{\color{#CB9275}f/o⠀=⠀fictional⠀other⠀cosplay⠀skin}}$</span>
+  ${{\color{#CB9275}f/o⠀=⠀fictional⠀other⠀cosplay⠀skin}}$</span></br>
+  </br>
+  </br>
+  </br>
+<span class="text" alight="left">⠀⠀⠀⠀ ${{\color{#5C2351}cool⠀pt⠀players}}$ ${{\color{#CB9275}⌒}}$ HELLHOUND<3 , [@EXPL0RE-EXPRESS-UNITED-INC](https://github.com/EXPL0RE-EXPRESS-UNITED-INC) </br>
+<sub>${{\color{#5C2351}ask⠀to⠀be⠀added⠀if⠀friended!}}$ </span>
+  <img src="https://64.media.tumblr.com/05561c1fce88e66c806aad25d09105c8/962cb2ad6c14e999-c7/s2048x3072/0ee95709afef64addc60043e4d6c0031056d2894.pnj" width="200" align="left">
 </div>
 </details>

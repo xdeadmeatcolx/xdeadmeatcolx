@@ -15,7 +15,7 @@
         > </br>
 </p>
 <p align="center">
-        <span id="dni"><a href="https://fluffle.cc/dmdni">dni</a></span>${{\color{#5C2351}⠀⌒⠀}}$<span id="byi"><a href="https://fluffle.cc/dmbyi">byi</a></span>${{\color{#5C2351}⠀⌒⠀}}$<span id="interests"><a href="https://fluffle.cc/dmints">interests</a></span>
+         ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀<span id="dni"><a href="https://fluffle.cc/dmdni">dni</a></span>${{\color{#5C2351}⠀⌒⠀}}$<span id="byi"><a href="https://fluffle.cc/dmbyi">byi</a></span>${{\color{#5C2351}⠀⌒⠀}}$<span id="interests"><a href="https://fluffle.cc/dmints">interests</a></span>
         </p>
 <p align="center">
 <img src="https://64.media.tumblr.com/42a633cc8194b9f1910aaf6dfd1374fd/962cb2ad6c14e999-27/s2048x3072/5c85d0848f5c8efa6e81ed7dd5ed3e6edb23ac46.pnj"

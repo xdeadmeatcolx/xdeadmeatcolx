@@ -29,7 +29,7 @@
 <details align="left">
 <summary>${{\color{#CB9275} ⠀⠀info ⠀⠀ ⠀✦ ⠀⠀ ⠀}}$<img src="https://64.media.tumblr.com/14f23126e620e6adb96c6a61f2af19e0/ec3f7831beace81c-51/s75x75_c1/d6754b86fc5363cc5888e94d1d85374327659aaa.gifv"></summary>
 <div class="container"> <span class="text" align="middle"></br>
- ⠀⠀ ⠀⠀ ⠀⠀ ⠀ ${{\color{#CB9275}mostly}}$ ${{\color{#5C2351}in⠀18+⠀server⠀sometimes⠀safe⠀server⠀if⠀interacting⠀less}}$</br>
+ ⠀⠀ ⠀⠀ ⠀⠀ ⠀ ${{\color{#CB9275}in}}$ ${{\color{#5C2351}safe⠀server⠀,⠀sometimes⠀18+⠀server⠀if⠀interacting⠀less}}$</br>
  ⠀⠀ ⠀⠀ ⠀⠀ ⠀ ${{\color{#CB9275}area}}$ ${{\color{#5C2351}changes⠀depending⠀on⠀fandom/fronter⠀,⠀above⠀market⠀if⠀alone}}$</br>
  ⠀⠀ ⠀⠀ ⠀⠀ ⠀ ${{\color{#CB9275}frqing}}$ ${{\color{#5C2351}after⠀interacting⠀is⠀encouraged}}$</br>
  ⠀⠀ ⠀⠀ ⠀⠀ ⠀ ${{\color{#CB9275}we}}$ ${{\color{#5C2351}block⠀freely⠀and⠀are⠀nonconfrontational}}$</br>

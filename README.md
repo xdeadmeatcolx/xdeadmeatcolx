@@ -1,3 +1,5 @@
+<sub>its our bday(july 30th) look at my gift animation for ourselves https://www.youtube.com/watch?v=mVzWmmAXU_A</sub>
+
 <p align="center">
 <img src="https://64.media.tumblr.com/03bfee2c423e825d298bfdeab084e79b/962cb2ad6c14e999-eb/s2048x3072/26503d417bc4bbec18f062d5eb5f05471b241007.pnj"
         width="500"

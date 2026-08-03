@@ -5,7 +5,9 @@
         >
         </p>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=25&letterSpacing=2px&duration=4000&pause=100&color=CB9275&width=435&lines=choose+your+weapon%2C+time+to+pay;forget+about+the+second+day" alt="Typing SVG" /></a>
+<img src="https://64.media.tumblr.com/442af71159a11f686ef9e0ad30e030a8/962cb2ad6c14e999-92/s1280x1920/4504ffe1a89ea8f779a5807be1503b64fe9f634c.pnj"
+                width="70">
+ ⠀⠀ ⠀<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=25&letterSpacing=2px&duration=4000&pause=100&color=CB9275&width=435&lines=choose+your+weapon%2C+time+to+pay;forget+about+the+second+day" alt="Typing SVG" /></a>
 </p>
 <p align="center">
 <img

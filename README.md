@@ -37,7 +37,7 @@ ${{\color{#ff0000}we}}$ ${{\color{#740000}are⠀always⠀friendly⠀and⠀free�
   </br>
 <span class="text" alight="left">⠀⠀⠀⠀ ${{\color{#740000}cool⠀pt⠀players}}$ ${{\color{#ff0000}⌒}}$ </br>
 HELLHOUND<3 , [@EXPL0RE-EXPRESS-UNITED-INC](https://github.com/EXPL0RE-EXPRESS-UNITED-INC)</br>
-<sub>${{\color{#740000}ask⠀to⠀be⠀added⠀if⠀friended!}}$ </sub></span>
+<sub>${{\color{#ff0000}ask⠀to⠀be⠀added⠀if⠀friended!}}$ </sub></span>
   <img src="https://64.media.tumblr.com/c80986954f8f4732175f427150bdb247/22e96a19a1431d1c-e2/s1280x1920/7a76d88660f67df5401d1c9ee7fa560fa0d07b38.pnj" width="250" align="left">
 </div>
 </details>

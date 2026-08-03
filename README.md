@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://i.postimg.cc/wM6bqhPq/3dgifmaker30579.gif"
                 width="100">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=25&letterSpacing=2px&duration=4000&pause=100&color=740000&width=435&lines=lets+meet+in+the+purgatory;of+my hips+and+get+well" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=25&letterSpacing=2px&duration=4000&pause=100&color=740000&width=435&lines=my+body+is+an+orphanage;%22+we+take+everyone+in+%22" alt="Typing SVG" /></a>
 </p>
 <p align="center">
 <img

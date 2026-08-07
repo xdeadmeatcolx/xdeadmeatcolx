@@ -1,3 +1,4 @@
+<sup>[easier to read ver](https://github.com/xdeadmeatcolx/easy2read.git)</sup>
 <p align="center">
 <img src="https://i.postimg.cc/wM6bqhPq/3dgifmaker30579.gif"
                 width="100">

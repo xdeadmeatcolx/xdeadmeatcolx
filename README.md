@@ -20,7 +20,7 @@
 ${{\color{#ff0000}in}}$ ${{\color{#740000}safe⠀server⠀,⠀sometimes⠀18+⠀server⠀if⠀interacting⠀less}}$ ⠀⠀ ⠀⠀ ⠀⠀ ⠀</br>
 ${{\color{#ff0000}area}}$ ${{\color{#740000}changes⠀depending⠀on⠀fandom/fronter⠀,⠀above⠀market⠀if⠀alone}}$</br>
 ${{\color{#ff0000}frqing}}$ ${{\color{#740000}after⠀interacting⠀is⠀encouraged}}$ ⠀⠀ ⠀⠀ ⠀⠀ ⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀ ⠀⠀ ⠀⠀  ⠀</br>
-${{\color{#ff0000}we}}$ ${{\color{#740000}block⠀freely⠀and⠀are⠀nonconfrontational}}$ ⠀⠀ ⠀⠀ ⠀⠀ ⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀ ⠀</br>
+${{\color{#ff0000}we}}$ ${{\color{#740000}hide⠀freely⠀and⠀are⠀nonconfrontational}}$ ⠀⠀ ⠀⠀ ⠀⠀ ⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀ ⠀</br>
 ${{\color{#ff0000}usually}}$ ${{\color{#740000}offtab⠀but⠀we⠀disconnect⠀often⠀,⠀sometimes⠀slowreplies}}$ ⠀⠀ ⠀⠀ </br>
 ${{\color{#ff0000}avoid}}$ ${{\color{#740000}interacting⠀if⠀-15⠀,⠀16+⠀preferred⠀please}}$ ⠀⠀ ⠀⠀ ⠀⠀ ⠀ ⠀⠀ ⠀⠀⠀</br>
 ${{\color{#ff0000}dont}}$ ${{\color{#740000}care⠀if⠀anyone⠀takes⠀inspo⠀just⠀dont⠀fully⠀copy}}$ ⠀⠀ ⠀⠀ ⠀⠀ ⠀ ⠀⠀   </br>

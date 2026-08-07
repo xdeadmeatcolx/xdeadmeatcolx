@@ -6,7 +6,7 @@
 <p align="center">
 <img
         src="redgif.gif"
-        width="450"
+        width="550"
         align="middle"
         > </br>
 </p>

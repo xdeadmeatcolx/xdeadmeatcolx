@@ -40,6 +40,11 @@ ${{\color{#ff0000}we}}$ ${{\color{#740000}are⠀always⠀friendly⠀and⠀free�
 HELLHOUND<3 , [@EXPL0RE-EXPRESS-UNITED-INC](https://github.com/EXPL0RE-EXPRESS-UNITED-INC)</br>
 <sub>${{\color{#ff0000}ask⠀to⠀be⠀added⠀if⠀friended!}}$ </sub></span>
   <img src="https://64.media.tumblr.com/c80986954f8f4732175f427150bdb247/22e96a19a1431d1c-e2/s1280x1920/7a76d88660f67df5401d1c9ee7fa560fa0d07b38.pnj" width="250" align="left">
+  </br>
+  <p align="left"> </br>
+  <img src="https://64.media.tumblr.com/d1e128fd23fcc6ed518f0f296be66c25/22e96a19a1431d1c-37/s2048x3072/cc049b5b35cdc079a3784f51f8d110062acd9907.pnj" width="300"> </br>
+    ${{\color{#ff0000}thanku}}$ [@ponychievements](https://github.com/ponychievements) ${{\color{#ff0000}!}}$
+</p>
 </div>
 </details>
 

@@ -12,7 +12,7 @@
         > </br>
 </p>
 <p align="center">
-         ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀<a href="https://fluffle.cc/dmbyi"><img src="https://64.media.tumblr.com/86cd130d4d23edbe9c20c25c77810b30/22e96a19a1431d1c-4c/s2048x3072/2d20fe8c41ce59f7442ff3ea81979f3d285d19d4.pnj" alt="byi" width="80"></a> <a href="https://fluffle.cc/dmdni"><img src="https://64.media.tumblr.com/e64d73164c7491cc2f346efac23f7e14/22e96a19a1431d1c-4c/s2048x3072/4519bb3a5e7aad8d33a9052b36d3fe71292109e2.pnj" alt="dni" width="80"></a> <a href="https://fluffle.cc/dmints"><img src="https://64.media.tumblr.com/890029c6480975b70f13f7ab2eb0ad4d/22e96a19a1431d1c-8a/s2048x3072/4f9c986ccffa4916635fa20f5c50f5c4dbb93c43.pnj" alt="ints" width="80"></a>
+         ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀<a href="https://fluffle.cc/dmbyi"><img src="https://64.media.tumblr.com/0ba4ea98d6327261817701afd9c30c63/22e96a19a1431d1c-6b/s2048x3072/289b5739844a885b2987ac9014a1154dddc97a37.pnj" alt="byi" width="80"></a> <a href="https://fluffle.cc/dmdni"><img src="https://64.media.tumblr.com/2e06549e94209d6495372a6c6ec2007f/22e96a19a1431d1c-b3/s2048x3072/80b3389154ed829c0b4d13d827f4852bb7054eb8.pnj" alt="dni" width="80"></a> <a href="https://fluffle.cc/dmints"><img src="https://64.media.tumblr.com/506e667226cc5309f319b3801858ed64/22e96a19a1431d1c-92/s2048x3072/d69b306253ec557fd9ac985b2773b0e7bf6b38d8.pnj" alt="ints" width="80"></a>
         </p>
 
 <details align="center">
